@@ -1,0 +1,16 @@
+{
+  "resourceName": "S3test",
+  "policyUUID": "d3cfda23",
+  "bucketName": "redditclonemainf7f6cea117a841c9bba6f1cc88181210",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

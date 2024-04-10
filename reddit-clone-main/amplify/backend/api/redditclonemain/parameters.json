@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "redditclonemain",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authredditclonemaind7158d75",
+      "Outputs.UserPoolId"
+    ]
+  },
+  "AuthModeLastUpdated": "2023-10-13T19:49:01.031Z"
+}

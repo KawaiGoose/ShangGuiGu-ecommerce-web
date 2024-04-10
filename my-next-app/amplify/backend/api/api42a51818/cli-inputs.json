@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/webhook": {
+      "name": "/webhook",
+      "lambdaFunction": "mynextappdfd2f183",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
