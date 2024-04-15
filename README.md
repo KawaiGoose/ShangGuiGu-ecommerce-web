@@ -1,6 +1,7 @@
 
 Backend Management System Functions: This system is used by platform administrators to maintain the fundamental data related to the system. It includes user login, permission management, product management, product category management, product specification management, order management, and more.
-![image](https://github.com/KawaiGoose/ShangGuiGu-ecommerce-web/assets/134099409/2fa5dc7d-b89b-46ea-9efa-b318e52a4a5b)
+![image](https://github.com/KawaiGoose/ShangGuiGu-ecommerce-web/assets/134099409/c9dd0681-27c9-4a22-ab1e-bb8fe67c73c4)
+
 Front-end User System Features: Includes homepage data display, categorized display, product data search, user registration and login, shopping cart module, order module, etc.
 ![image](https://github.com/KawaiGoose/ShangGuiGu-ecommerce-web/assets/134099409/8f40a067-e45b-4ef6-9cb6-2542a46f0c46)
 
