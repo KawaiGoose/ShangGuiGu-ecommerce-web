@@ -16,3 +16,11 @@ Product, category, and brand management, including multi-level display of catego
 ![image](https://github.com/KawaiGoose/ShangGuiGu-ecommerce-web/assets/134099409/53de0ef5-fa59-46c1-88ec-ce2e54bf15f1)
 Order management, used for order statistics with mobile devices.
 ![image](https://github.com/KawaiGoose/ShangGuiGu-ecommerce-web/assets/134099409/796c5f42-4e87-44eb-8f93-08b5df65db99)
+
+Front-end User System Including:
+Category management page and multi-level management display.
+![image](https://github.com/KawaiGoose/ShangGuiGu-ecommerce-web/assets/134099409/8f40a067-e45b-4ef6-9cb6-2542a46f0c46)
+![image](https://github.com/KawaiGoose/ShangGuiGu-ecommerce-web/assets/134099409/296552c3-90a9-4dc6-869b-7fe8819915fb)
+Shopping cart to integrate all order management.
+![image](https://github.com/KawaiGoose/ShangGuiGu-ecommerce-web/assets/134099409/ebdd988a-c31e-43fd-9655-10adf58d4927)
+
